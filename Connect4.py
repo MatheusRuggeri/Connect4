@@ -6,8 +6,8 @@ Created on Sat May  9 20:42:18 2020
 """
 
 # Número de linhas, colunas e quantas peças devem ser ligadas Connect4 -> k = 4
-nlin = 4
-ncol = 4
+nlin = 6
+ncol = 7
 k = 4
 
 # Estados possíveis para o tabuleiro
