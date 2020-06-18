@@ -1,0 +1,16 @@
+﻿Language,Winner,Draw
+LangBR,BR
+LangEN,EN
+LangDE,DE
+Winner-BR,O vencedor foi:
+Winner-EN,The winner was:
+Winner-DE,Der Gewinner war:
+Draw-BR,O jogo terminou empatado
+Draw-EN,The game tied
+Draw-DE,Das Spiel endete unentschieden
+Blue-BR,Azul
+Blue-EN,Blue
+Blue-DE,Blau
+Red-BR,Vermelho
+Red-EN,Red
+Red-DE,Rot
