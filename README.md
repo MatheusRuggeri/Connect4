@@ -1,8 +1,7 @@
 # Connect 4
-The traditional game made with Python and C.
-The code that you are download is configured with 6 lines, 7 columns and you have to connect 4 pieces to be the winner, but you can configure this values, set a larger board and maybe 5 pieces connected to win.
-
-The C code was programmed in 2012, I lost the final version, this one has many indentation problems, but the code is working, the Python code is cleaner.
+The traditional game made with Python.
+There are 2 versions, the Terminal, where you can play in your Terminal or CMD, and the GUI (Graphical User Interface), where you can play with your mouse.
+The code that you are downloading was configured with 6 lines, 7 columns and you have to connect 4 pieces to be the winner, this is the traditional Connect4 game, but this was improoved, you can configure this values, set a larger board and maybe 5 pieces connected to win.
 
 # ConnectN
 
