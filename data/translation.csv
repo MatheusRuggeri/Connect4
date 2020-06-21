@@ -1,0 +1,58 @@
+﻿Language,Winner,Draw
+LangBR,BR
+LangEN,EN
+LangDE,DE
+Winner-BR,O vencedor foi:
+Winner-EN,The winner was:
+Winner-DE,Der Gewinner war:
+Draw-BR,O jogo empatou!
+Draw-EN,The game tied!
+Draw-DE,Unentschieden!
+Blue-BR,Azul
+Blue-EN,Blue
+Blue-DE,Blau
+Red-BR,Vermelho
+Red-EN,Red
+Red-DE,Rot
+CPlayer-BR,Escolha o jogador
+CPlayer-EN,Choose player
+CPlayer-DE,Waehle Spieler
+You-BR,Voce
+You-EN,You
+You-DE,Sie
+PCEasy-BR,Computador Facil
+PCEasy-EN,Computer Easy
+PCEasy-DE,Computer Einfach
+PCMedium-BR,Computador Medio
+PCMedium-EN,Computer Medium
+PCMedium-DE,Computer Mittel
+PCHard-BR,Computador Dificil
+PCHard-EN,Computer Hard
+PCHard-DE,Computer Schwer
+PAgain-BR,Jogar novamente?
+PAgain-EN,Play again?
+PAgain-DE,Nochmal abspielen?
+Same-BR,Mesmo jogo
+Same-EN,Same Game
+Same-DE,Gleiches Spiel
+Change-BR,Mudar configuracao
+Change-EN,Change configs
+Change-DE,Aendern Konfiguration
+No-BR,Nao
+No-EN,No
+No-DE,Nein
+Thanks-BR,Obrigado por jogar!
+Thanks-EN,Thank you for playing!
+Thanks-DE,Danke fuer Spielen!
+Name-BR,Desenvolvido por Matheus Rugeri
+Name-EN,Developed by Matheus Rugeri
+Name-DE,Entwickelt von Matheus Rugeri
+Wiki-BR,Obrigado a Wikimedia Foundation pelas bandeiras
+Wiki-EN,Thanks to Wikimedia Foundation for the flags
+Wiki-DE,Danke an Wikimedia Foundation fuer die Flaggen
+Meme-BR,Obrigado ao memes.at pelos memes
+Meme-EN,Thanks to memes.at for the memes
+Meme-DE,Danke an memes.at fuer die Meme
+Kenn-BR,Obrigado ao Kenney pelos efeitos sonoros CC0
+Kenn-EN,Thanks to Kenney for his CC0 sound effects
+Kenn-DE,Danke an Kenney fuer seine CC0-Soundeffekte
